@@ -1,0 +1,29 @@
+This is a very important assignment. No engineering toolset is useful unless you are able to actually use it to solve problems. Usually, one has to have access to a sophisticated lab to stress one's knowledge in a practical setting. Fortunately, with AI/RL one's lab is the computer --- however, one is still confronted with how to actually stress your application of the skillset. Is a small toy environment really sufficient?
+
+This assignment will expose you to the solution: OpenAI gyms. First go to gym.openai.com and review the content.
+
+Question: What is the purpose of OpenAI gyms and how is it going to help us in our RL education?
+
+Now, how heavy will it be to set this up? On Colab, you just need to "import gym".
+
+Go to Files/ and open A1_... in Colab. The assignment specs are contained within that file.
+
+1. You MUST start this assignment early. Not because it is long --- it isn't. It is a very simple application of C4's concepts in a practical sense. However, given:
+
+a. the tendency of students to not read thoroughly
+
+b. the tendency of students to ask clarifying questions too late (and without having read the specs)
+
+c. the tendency of students to suppress the requirement to simply try the solution, versus asking a number of questions that circumvent the actual trying
+
+I will require students to start this assignment immediately by this weekend.
+
+Questions will be answered on the forum; however, I will expect that questions will be accompanied by details indicating how you have already tried your best to solve the problem you are asking for help with. No questions will be answered if there is no indication that you have read the course material, the text, the question, and tried to solve it.
+
+The assignment is spec'd incrementally; so start from the top, and move down.
+
+No group work is allowed; submissions must contain your own original work. This assignment is a simulation of an exam: on an exam you are expected to be able to explain the course concepts algorithmically and mathematically (per the presentation in the text and lectures). Hence, you should be able to code these concepts up, since the codification is 1:1 with the presentation in the textbook (accounting for some verbosity in Python syntax). If you can not code up the concepts in the text, then you must be missing something conceptual. Determine what that is and solve that issue: ask if you don't understand a concept.
+
+ 
+
+Annotate the Colab notebook with your answers and solutions and test runs; clean it to remove errors and experiments that were not requested, and export to pdf and submit by the requested date.
